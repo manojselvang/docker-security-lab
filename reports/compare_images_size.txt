@@ -1,0 +1,3 @@
+myapp:alpine         2107cd173aa1         91MB         21.9MB        
+myapp:multistage     ee94c5b70b80        194MB           47MB        
+myapp:vulnerable     8ceeeb5abd3e        842MB          219MB        
