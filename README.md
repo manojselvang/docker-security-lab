@@ -27,6 +27,8 @@ Transform a vulnerable Docker image into a hardened production-ready container i
 | Multistage | 194MB |
 | Hardened Alpine | 91MB |
 
+Reduced image size from 842MB to 91MB using Alpine and multi-stage builds while enforcing non-root execution and removing embedded secrets.
+
 ### Security Scanning
 - Trivy vulnerability scans performed
 - Docker Bench Security checks executed
